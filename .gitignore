@@ -1,0 +1,5 @@
+.vs/
+bin/*
+Backup/
+packages/
+packages.config
