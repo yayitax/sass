@@ -52,6 +52,7 @@ h3 {
 
 /* Sections */
 header h1 {
+    @extend nav;
     font-size: 24px;
     font-family: 'Share', cursive;
     color: Blue;
