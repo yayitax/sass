@@ -3,3 +3,19 @@ D:\speaking\PS\BetterCSS\Examples\BetterCSS\bin\BetterCSS.pdb
 D:\speaking\PS\BetterCSS\Examples\BetterCSS\obj\Debug\ResolveAssemblyReference.cache
 D:\speaking\PS\BetterCSS\Examples\BetterCSS\obj\Debug\BetterCSS.dll
 D:\speaking\PS\BetterCSS\Examples\BetterCSS\obj\Debug\BetterCSS.pdb
+C:\Users\yayit\Documents\UV\HTML & CSS\sass\bin\BetterCSS.dll.config
+C:\Users\yayit\Documents\UV\HTML & CSS\sass\bin\BetterCSS.dll
+C:\Users\yayit\Documents\UV\HTML & CSS\sass\bin\BetterCSS.pdb
+C:\Users\yayit\Documents\UV\HTML & CSS\sass\bin\IronRuby.dll
+C:\Users\yayit\Documents\UV\HTML & CSS\sass\bin\IronRuby.Libraries.dll
+C:\Users\yayit\Documents\UV\HTML & CSS\sass\bin\IronRuby.Libraries.Yaml.dll
+C:\Users\yayit\Documents\UV\HTML & CSS\sass\bin\Microsoft.Dynamic.dll
+C:\Users\yayit\Documents\UV\HTML & CSS\sass\bin\Microsoft.Scripting.dll
+C:\Users\yayit\Documents\UV\HTML & CSS\sass\bin\Microsoft.Scripting.Metadata.dll
+C:\Users\yayit\Documents\UV\HTML & CSS\sass\bin\SassAndCoffee.AspNet.dll
+C:\Users\yayit\Documents\UV\HTML & CSS\sass\bin\SassAndCoffee.Core.dll
+C:\Users\yayit\Documents\UV\HTML & CSS\sass\bin\SassAndCoffee.JavaScript.dll
+C:\Users\yayit\Documents\UV\HTML & CSS\sass\bin\SassAndCoffee.Ruby.dll
+C:\Users\yayit\Documents\UV\HTML & CSS\sass\obj\Debug\BetterCSS.csprojResolveAssemblyReference.cache
+C:\Users\yayit\Documents\UV\HTML & CSS\sass\obj\Debug\BetterCSS.dll
+C:\Users\yayit\Documents\UV\HTML & CSS\sass\obj\Debug\BetterCSS.pdb

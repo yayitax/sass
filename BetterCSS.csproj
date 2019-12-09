@@ -103,7 +103,7 @@
   <ItemGroup>
     <Content Include="Form.html" />
     <Content Include="css\init.css" />
-    <Content Include="css\My.css" />
+    <None Include="css\My.scss" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
