@@ -43,6 +43,12 @@ h3 {
     font-size: $baseFontSize + 2;
 }
 
+@for $colNumber from 2 through 5 {
+    .col-#{$colNumber} {
+        width: ($app-size / $colNumber) - 10px;
+    }
+}
+
 /* Layout */
 #container {
     margin-top: 5px;
